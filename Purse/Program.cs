@@ -6,7 +6,7 @@ namespace Purse
     {
         static void Main(string[] args)
         {
-            var money = new Money.Money(100);
+            var money = new Money.Money(50);
             Console.WriteLine(money.GetMoney());
             var credit = new CreditCard.CreditCard(500);
             Console.WriteLine(credit.GetSumCreditCard());
