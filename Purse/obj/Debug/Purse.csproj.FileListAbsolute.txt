@@ -27,3 +27,13 @@ D:\Любінський\laba_Ser\PM_Lab_2\Purse\Purse\bin\Debug\Money.pdb
 D:\Любінський\laba_Ser\PM_Lab_2\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
 D:\Любінський\laba_Ser\PM_Lab_2\Purse\Purse\obj\Debug\Purse.exe
 D:\Любінський\laba_Ser\PM_Lab_2\Purse\Purse\obj\Debug\Purse.pdb
+D:\Любінський\Lab_2\Purse\bin\Debug\Purse.exe.config
+D:\Любінський\Lab_2\Purse\bin\Debug\Purse.exe
+D:\Любінський\Lab_2\Purse\bin\Debug\Purse.pdb
+D:\Любінський\Lab_2\Purse\bin\Debug\CreditCard.dll
+D:\Любінський\Lab_2\Purse\bin\Debug\Money.dll
+D:\Любінський\Lab_2\Purse\bin\Debug\Money.pdb
+D:\Любінський\Lab_2\Purse\bin\Debug\CreditCard.pdb
+D:\Любінський\Lab_2\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+D:\Любінський\Lab_2\Purse\obj\Debug\Purse.exe
+D:\Любінський\Lab_2\Purse\obj\Debug\Purse.pdb
